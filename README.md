@@ -13,21 +13,19 @@ What do I know?
 --
 Languages:
 
-Python
+* Python
+* C
+* LaTeX
+* Java (basic)
 
-C
-
-LaTeX
-
-Java (basic)
+Technologies
+* HTML
+* CSS
+* Php (Basic)
 
 What I’m learning:
 --
-Data cience and in phisics modeling.
-
-
-Julia (just starting)
-
-Astrophysics (independently and through uni)
-
-Particle physics (my long-term goal!)
+* Data cience and in phisics modeling.
+* Julia (just starting)
+* Astrophysics (independently and through uni)
+* Particle physics (my long-term goal!)
