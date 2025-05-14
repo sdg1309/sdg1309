@@ -7,8 +7,10 @@ I enjoy exploring the universe from both the physical and computational perspect
 
 I started programming a few years ago, mainly for academic projects and personal experiments in physics, and I’ve been growing my toolkit ever since.
 
---
+
+
 What do I know?
+--
 Languages:
 
 Python
@@ -18,9 +20,9 @@ C
 LaTeX
 
 Java (basic)
---
-What I’m learning:
 
+What I’m learning:
+--
 Data cience and in phisics modeling.
 
 
