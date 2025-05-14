@@ -5,7 +5,7 @@ Hi! I'm SDG1309, a 21-year-old Physics student at the Escuela de Ingeniería de 
 
 I enjoy exploring the universe from both the physical and computational perspectives. My interests span from programming and scientific computing to astrophysics and particle physics, which I’m gradually diving deeper into.
 
-I started programming a few years ago, mainly for academic projects and personal experiments in physics, and I’ve been growing my toolkit ever since.
+I started programming arround 6 years ago, mainly for academic projects and personal experiments, and I’ve been growing my toolkit ever since.
 
 
 
