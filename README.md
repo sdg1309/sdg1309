@@ -1,31 +1,50 @@
-Hi, I’m @sdg1309.
+# Hi, I'm Santiago Duque (@sdg1309)
 
-Hello there
-Hi! I'm SDG1309, a 22-year-old Softwear ingeniere student at the University EAFIT.
+I am a Systems Engineering student at Universidad EAFIT. Before beginning this degree, I studied Physics for four years at Universidad EIA, where I developed a strong foundation in mathematics, scientific reasoning, and computational modelling.
 
-I enjoy exploring the universe from both the physics and computational perspectives. My interests span from programming and scientific computing to astrophysics and particle physics, which I’m gradually diving deeper into different languages and mathematics.
+I am interested in software development, scientific computing, numerical simulations, data analysis, and web technologies. I enjoy building projects that combine programming, mathematics, and real-world problem-solving.
 
-I started programming arround 8 years ago, mainly for academic projects and personal experiments, and I’ve been growing my toolkit ever since.
+## Current Focus
 
+* Software development with Python, Java, and R
+* Scientific computing and numerical simulations
+* Data analysis and computational modelling
+* Web development with WordPress, WooCommerce, PHP, JavaScript, Sass, and CSS
+* Functional programming and programming language fundamentals
+* Git, GitHub, software documentation, and development best practices
 
+## Technologies
 
-What do I know?
---
-Languages:
+### Programming Languages
 
 * Python
+* Java
 * C
-* LaTeX
-* Java (basic)
+* PHP
+* Haskell
+* R
+* JavaScript
 
-Technologies
+### Web Technologies
+
 * HTML
 * CSS
-* Php (Basic)
+* Sass
+* WordPress
+* WooCommerce
 
-What I’m learning:
---
-* Data cience aplied in to phisics modeling.
-* Julia (starting)
-* Astrophysics (independently)
-* Particle physics (my long-term goal!)
+### Tools and Platforms
+
+* Git and GitHub
+* Visual Studio Code
+* Jupyter Notebook
+* Linux
+* LaTeX
+
+## Currently Learning
+
+* Software architecture and automated testing
+* Data analysis and scientific modelling
+* Functional programming
+* Numerical methods
+* Astrophysics and particle physics
